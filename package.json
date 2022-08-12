@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "Load a URL into JSDOM for testing",
   "main": "dist",
+  "types": "dist",
   "scripts": {
     "prepare": "tsc",
     "test": "jest"
