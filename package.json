@@ -1,6 +1,6 @@
 {
   "name": "jest-environment-url",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "repository": "nickmccurdy/jest-environment-url",
   "funding": "https://github.com/nickmccurdy/jest-environment-url?sponsor=1",
   "keywords": [
