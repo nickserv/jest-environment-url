@@ -2,6 +2,10 @@
 
 Load a URL into JSDOM for testing
 
+## Status
+
+This is an experiment that hasn't been extensively tested yet, but feedback is welcome
+
 ## Installation
 
 ```sh
