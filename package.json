@@ -47,7 +47,10 @@
     "testEnvironment": "./index.ts",
     "testEnvironmentOptions": {
       "url": "https://example.com/"
-    }
+    },
+    "testPathIgnorePatterns": [
+      "dist"
+    ]
   },
   "prettier": "prettier-config-nick"
 }
