@@ -60,10 +60,6 @@ export default class URLEnvironment extends JSDOMEnvironment {
     const global = (this.global = this.dom.window.document
       .defaultView as unknown as Win)
 
-    if (!global) {
-      throw new Error("JSDOM did not return a Window object")
-    }
-
     // for "universal" code (code should use `globalThis`)
     global.global = global as any
 
