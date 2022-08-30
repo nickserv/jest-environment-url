@@ -21,7 +21,7 @@
     "@jest/environment": "^29.0.1",
     "@jest/types": "^29.0.1",
     "@types/jsdom": "^20.0.0",
-    "jest-environment-jsdom": "^29.0.1",
+    "jest-mock": "^29.0.1",
     "jest-util": "^29.0.1",
     "jsdom": "^20.0.0"
   },
